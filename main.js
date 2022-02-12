@@ -45,4 +45,4 @@ function zmen(elementSelector) {
 	document.querySelector(elementSelector).style.backgroundColor = 'green';
 }
 
-/** Byla jsem trocu ztracená, přiznám se, že jsem šla rovnou do develop a snažila se pochopit postup :-) */
+/** Byla jsem trochu ztracená, přiznám se, že jsem šla rovnou do develop a snažila se pochopit postup :-) */
